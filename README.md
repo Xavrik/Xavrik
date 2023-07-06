@@ -23,8 +23,6 @@ I have experience writing programs in C#, Java, JavaScript, Kotlin have practice
 
   
 **Languages and Tools:**  
-
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/jmnote/z-icons/master/svg/java.svg"></code>
 <code><img height="20" src="https://github.com/devicons/devicon/blob/master/icons/kotlin/kotlin-original.svg"></code>
@@ -39,6 +37,7 @@ I have experience writing programs in C#, Java, JavaScript, Kotlin have practice
 <code><img height="20" src="https://user-images.githubusercontent.com/25181517/183893668-d45b89f9-bd9f-4143-b61a-7db9ac6bbd5e.png"></code>
 <code><img height="20" src="https://github.com/devicons/devicon/blob/master/icons/docker/docker-original-wordmark.svg"></code>
 <br />
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code>
 <code><img height="20" src="https://user-images.githubusercontent.com/25181517/189715289-df3ee512-6eca-463f-a0f4-c10d94a06b2f.png"></code>
 <code><img height="20" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/95/YouTrack_Icon.png/1200px-YouTrack_Icon.png"></code>
 
