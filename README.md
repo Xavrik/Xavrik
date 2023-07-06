@@ -30,11 +30,7 @@ I have experience writing programs in C#, Java, JavaScript, Kotlin have practice
 <code><img height="20" src="https://github.com/devicons/devicon/blob/master/icons/kotlin/kotlin-original.svg"></code>
 <code><img height="20" src="https://github.com/devicons/devicon/blob/master/icons/spring/spring-original.svg"></code>
 <code><img height="20" src="https://user-images.githubusercontent.com/25181517/183891303-41f257f8-6b3d-487c-aa56-c497b880d0fb.png"></code>
-<code><img height="20" src="https://user-images.githubusercontent.com/25181517/183891303-41f257f8-6b3d-487c-aa56-c497b880d0fb.png"></code>
 <code><img height="20" src="https://user-images.githubusercontent.com/25181517/190229463-87fa862f-ccf0-48da-8023-940d287df610.png"></code>
-<br />
-<code><img height="20" src="https://user-images.githubusercontent.com/25181517/189715289-df3ee512-6eca-463f-a0f4-c10d94a06b2f.png"></code>
-<code><img height="20" src="https://blog.jetbrains.com/wp-content/uploads/2016/05/youtrack-githublinkyoutrack-1.png"></code>
 <br />
 <code><img height="20" src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-plain.svg"></code>
 <code><img height="20" src="https://github.com/devicons/devicon/blob/master/icons/postgresql/postgresql-original.svg"></code>
@@ -42,6 +38,9 @@ I have experience writing programs in C#, Java, JavaScript, Kotlin have practice
 <code><img height="20" src="https://user-images.githubusercontent.com/25181517/117208736-bdedc080-adf5-11eb-912f-61c7d43705f6.png"></code>
 <code><img height="20" src="https://user-images.githubusercontent.com/25181517/183893668-d45b89f9-bd9f-4143-b61a-7db9ac6bbd5e.png"></code>
 <code><img height="20" src="https://github.com/devicons/devicon/blob/master/icons/docker/docker-original-wordmark.svg"></code>
+<br />
+<code><img height="20" src="https://user-images.githubusercontent.com/25181517/189715289-df3ee512-6eca-463f-a0f4-c10d94a06b2f.png"></code>
+<code><img height="20" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/95/YouTrack_Icon.png/1200px-YouTrack_Icon.png"></code>
 
 
 🚧 **My Tasks:**
