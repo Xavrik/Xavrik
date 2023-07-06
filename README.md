@@ -19,7 +19,8 @@ I have experience writing programs in C#, Java, JavaScript, Kotlin have practice
 
 <br />
 
-<img align="right" alt="GIF" src="https://raw.githubusercontent.com///main/%D0%A3%D1%87%D1%83%D1%81%D1%8C%20%D0%BD%D0%B0%20Slurm.png?raw=true" width="400" height="280" />
+<img align="right" alt="GIF" src="https://user-images.githubusercontent.com/74038190/212749447-bfb7e725-6987-49d9-ae85-2015e3e7cc41.gif?raw=true" width="400" height="280" />
+
   
 **Languages and Tools:**  
 
