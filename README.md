@@ -37,4 +37,4 @@ I have experience writing programs in C#, Java, JavaScript, Kotlin have practice
 * [ ] 
 * [ ]       
 <!-- TODO-IST:END -->
-<img src="https://github-readme-stats.vercel.app/api/top-langs?username=zluvsand&layout=compact"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs?username=Xavrik&layout=compact"/>
