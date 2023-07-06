@@ -27,9 +27,16 @@ I have experience writing programs in C#, Java, JavaScript, Kotlin have practice
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/jmnote/z-icons/master/svg/java.svg"></code>
+<code><img height="20" src="https://github.com/devicons/devicon/blob/master/icons/kotlin/kotlin-original.svg"></code>
+<code><img height="20" src="https://github.com/devicons/devicon/blob/master/icons/spring/spring-original.svg"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/jmnote/z-icons/master/svg/bash.svg"></code>
-<code><img height="20" src="https://github.com/devicons/devicon/blob/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg"></code>
+<br />
+<code><img height="20" src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-plain.svg"></code>
+<code><img height="20" src="https://github.com/devicons/devicon/blob/master/icons/postgresql/postgresql-original.svg"></code>
+<code><img height="20" src="https://github.com/devicons/devicon/blob/master/icons/postgresql/postgresql-original.svg"></code>
 <code><img height="20" src="https://github.com/devicons/devicon/blob/master/icons/oracle/oracle-original.svg"></code>
+<code><img height="20" src="https://github.com/devicons/devicon/blob/master/icons/docker/docker-original-wordmark.svg"></code>
+
 
 🚧 **My Tasks:**
 <!-- TODO-IST:START -->
