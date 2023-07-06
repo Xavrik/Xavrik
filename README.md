@@ -1,14 +1,8 @@
 ### Привет-привет! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
-<a href="https://vk.com/your_profile">
-  <img align="left" alt="VKontakte" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/vk.svg" />
-</a>
-<a href="https://twitter.com/your_profile">
-  <img align="left" alt="Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
-</a>
-<a href="https://www.linkedin.com/in/your_profile">
+<a href="https://www.linkedin.com/in/anton-khokhanov">
   <img align="left" alt="LinkdeIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
 </a>
-<a href="https://t.me/your_profile">
+<a href="https://t.me/Xanaxna">
   <img align="left" alt="Abhishek's Telegram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/telegram.svg" />
 </a>
 <a href="https://www.instagram.com/your_profile">
@@ -17,7 +11,10 @@
 
 <br />
 
-Привет, меня зовут ВАШЕ ИМЯ
+Hi, my name is Anton. I study programming on my own, I learn Java, JavaScript, Spring, and starting learn Kotlin.
+I have over 12 years of work in IT, starting from the System Administrator to the so-called DevOps. 
+For the last 5 years in my current job, I have been developing new areas and products, deploying solutions for clients. 
+I have experience writing programs in C#, Java, JavaScript, Kotlin have practice in Spring Boot, Spring MVC, JavaFX, RabbitMQ, Docker,Git,Postman, and Android Studio.
 
 <br />
 
@@ -32,7 +29,7 @@
 <code><img height="20" src="https://github.com/devicons/devicon/blob/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg"></code>
 <code><img height="20" src="https://github.com/devicons/devicon/blob/master/icons/oracle/oracle-original.svg"></code>
 
-🚧 **Мои задачи на ближайшее время:**
+🚧 **My Tasks:**
 <!-- TODO-IST:START -->
 * [x] 
 * [ ] 
