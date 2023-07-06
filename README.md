@@ -32,7 +32,6 @@ I have experience writing programs in C#, Java, JavaScript, Kotlin have practice
 <br />
 <code><img height="20" src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-plain.svg"></code>
 <code><img height="20" src="https://github.com/devicons/devicon/blob/master/icons/postgresql/postgresql-original.svg"></code>
-<code><img height="20" src="https://github.com/devicons/devicon/blob/master/icons/postgresql/postgresql-original.svg"></code>
 <code><img height="20" src="https://user-images.githubusercontent.com/25181517/117208736-bdedc080-adf5-11eb-912f-61c7d43705f6.png"></code>
 <code><img height="20" src="https://user-images.githubusercontent.com/25181517/183893668-d45b89f9-bd9f-4143-b61a-7db9ac6bbd5e.png"></code>
 <code><img height="20" src="https://github.com/devicons/devicon/blob/master/icons/docker/docker-original-wordmark.svg"></code>
