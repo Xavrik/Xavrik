@@ -17,7 +17,7 @@ I have over 12 years of work in IT, starting from the System Administrator to th
 For the last 5 years in my current job, I have been developing new areas and products, deploying solutions for clients. 
 I have experience writing programs in C#, Java, JavaScript, have practice in Spring Boot, Spring MVC, JavaFX, RabbitMQ, Docker, Git, Postman, and Android Studio.
 
-Courses:
+Courses: <br />
 JavaRush - February 2020 <br />
 Oracle Java Associate April 2021 <br />
 Datastax Cassandra Developer 11 May 2021 <br />
