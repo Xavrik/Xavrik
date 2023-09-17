@@ -1,6 +1,7 @@
 ### Hi Dear Friend! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
 <a href="https://www.linkedin.com/in/anton-khokhanov">
   <img align="left" alt="LinkdeIn" width="22px" src="https://github.com/devicons/devicon/blob/master/icons/linkedin/linkedin-original.svg" />
+  <div class="badge-base LI-profile-badge" data-locale="en_US" data-size="large" data-theme="light" data-type="HORIZONTAL" data-vanity="anton-khokhanov" data-version="v1"><a class="badge-base__link LI-simple-link" href="https://az.linkedin.com/in/anton-khokhanov?trk=profile-badge">Anton Khokhanov</a></div>
 </a>
 <a href="https://t.me/Xanaxna">
   <img align="left" alt="Abhishek's Telegram" width="22px" src="https://user-images.githubusercontent.com/49933115/139837223-bf23d3a9-4638-4e17-994a-ac8678d5f517.png" />
