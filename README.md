@@ -12,10 +12,23 @@
 <br />
 <br />
 
-Hi, my name is Anton. I study programming on my own, I learn Java, JavaScript, Spring, and starting learn Kotlin.
+Hi, my name is Anton. I study programming on my own, I learn Java, JavaScript, Spring,Kotlin and starting learn Scala in the near future.
 I have over 12 years of work in IT, starting from the System Administrator to the so-called DevOps. 
 For the last 5 years in my current job, I have been developing new areas and products, deploying solutions for clients. 
-I have experience writing programs in C#, Java, JavaScript, Kotlin have practice in Spring Boot, Spring MVC, JavaFX, RabbitMQ, Docker,Git,Postman, and Android Studio.
+I have experience writing programs in C#, Java, JavaScript, have practice in Spring Boot, Spring MVC, JavaFX, RabbitMQ, Docker, Git, Postman, and Android Studio.
+
+Courses:
+JavaRush - February 2020
+Oracle Java Associate April 2021
+Datastax Cassandra Developer 11 May 2021
+DataStax Cassandra Administartion June 2021
+Itproger Java Developer - September 2021
+Oracle OCI March 2022
+Oracle MySQl badge - May 2022
+Oracle SQL badge - May 2022
+Oracle Java badge - May 2022
+ITVDN Java Developer - April 2023
+
 
 <br />
 
