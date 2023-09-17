@@ -49,5 +49,4 @@ I have experience writing programs in C#, Java, JavaScript, Kotlin have practice
 <!-- TODO-IST:END -->
 <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Xavrik&layout=compact"/>
 
-<div class="badge-base LI-profile-badge" data-locale="en_US" data-size="large" data-theme="light" data-type="HORIZONTAL" data-vanity="anton-khokhanov" data-version="v1"><a class="badge-base__link LI-simple-link" href="https://az.linkedin.com/in/anton-khokhanov?trk=profile-badge">Anton Khokhanov</a></div>
-              
+
