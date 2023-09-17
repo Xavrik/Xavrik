@@ -18,16 +18,16 @@ For the last 5 years in my current job, I have been developing new areas and pro
 I have experience writing programs in C#, Java, JavaScript, have practice in Spring Boot, Spring MVC, JavaFX, RabbitMQ, Docker, Git, Postman, and Android Studio.
 
 Courses:
-JavaRush - February 2020
-Oracle Java Associate April 2021
-Datastax Cassandra Developer 11 May 2021
-DataStax Cassandra Administartion June 2021
-Itproger Java Developer - September 2021
-Oracle OCI March 2022
-Oracle MySQl badge - May 2022
-Oracle SQL badge - May 2022
-Oracle Java badge - May 2022
-ITVDN Java Developer - April 2023
+JavaRush - February 2020 <br />
+Oracle Java Associate April 2021 <br />
+Datastax Cassandra Developer 11 May 2021 <br />
+DataStax Cassandra Administartion June 2021 <br />
+Itproger Java Developer - September 2021 <br />
+Oracle OCI March 2022 <br />
+Oracle MySQl badge - May 2022 <br />
+Oracle SQL badge - May 2022 <br />
+Oracle Java badge - May 2022 <br />
+ITVDN Java Developer - April 2023 <br />
 
 
 <br />
